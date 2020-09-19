@@ -1,1 +1,1 @@
-# Trex
+# Syed's Trex Game
